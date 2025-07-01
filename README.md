@@ -1,4 +1,4 @@
-## **U**RawL is an unsophisticated R Script for Assisting **Raw** File Handling in **L**ightroom
+## **U**RawL is an Unsophisticated R script for assisting Raw file handling in Lightroom
 
 This R script was developed for my workflow as follows:
 
